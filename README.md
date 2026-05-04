@@ -14,4 +14,4 @@ Tools for monitoring third-party service status pages and dependencies.
 - Synthetic monitoring tools
 - APM tools
 
-Complete guide: [statuspageaggregators.com]
+Complete guide: [statuspageaggregators.com](statuspageaggregators.com)
